@@ -1,0 +1,2 @@
+PyMySQL==1.0.2
+pytest==6.2.2
